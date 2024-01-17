@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: "Roboto", Arial !important ;
+  background-color: #d5d4d4;
+}
